@@ -386,7 +386,7 @@ small{
   <a class="nav-link tm" href="settings.php"><i class='fas fa-cog'></i> Setting </a>
 </li><li class="nav-item">
     <hr/>
-    <p style="font-size:small">Copyright © <a href="http://haizim.one/">haizim</a> | supported by <a href="https://elektro.ft.uns.ac.id/">ELEKTRO FT UNS</a></p>
+    <p style="font-size:small">© 2020 <a href="http://haizim.one/">haizim</a> All rights reserved.</p>
 </li>
   
      
